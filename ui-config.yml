@@ -1,0 +1,30 @@
+---
+antora:
+  name: modules
+  dir: www
+  modules:
+    - name: "01-intro-and-login"
+      label: "Intro And Login"
+      solveButton: false
+    - name: "02-default-view"
+      label: "Default View"
+      solveButton: false
+    - name: "03-current-instances"
+      label: "Current Instances"
+      solveButton: false
+    - name: "04-current-subscriptions"
+      label: "Current Subscriptions"
+      solveButton: false
+    - name: "05-subscriptions-chart"
+      label: "Subscriptions Chart"
+      solveButton: false
+    - name: "06-filtering"
+      label: "Filtering"
+      solveButton: false
+    - name: "07-addon-filtering"
+      label: "Addon Filtering"
+      solveButton: false
+
+tabs:
+  - name: ">_ terminal"
+    url: /wetty_rhel/ssh/root

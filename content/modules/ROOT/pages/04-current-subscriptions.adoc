@@ -1,0 +1,19 @@
+Below the usage graph, you’ll also find the *Current Subscriptions* tab.
+Click on that and we’ll have a look at its contents.
+
+.current subscriptions tab
+image::../assets/swatch-current-subs-tab.png[current subscriptions tab]
+
+Your list should look something like this:
+
+.Current subscriptions list
+image::../assets/swatch-current-subs-list.png[Current subscriptions
+list]
+
+On this tab, each entry includes the: * *Product* - The name of the
+subscription * *Service Level* - What is the expectation of support from
+Red Hat? * *Quantity* - How many of these subscriptions have been
+purchased. * *Sockets* - The total amount of sockets provided. * *Next
+Renewal* - The next date a renewal for this subscription is occuring
+
+Next, we’ll have a look at that *usage graph* at the top.
