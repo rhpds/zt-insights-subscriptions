@@ -8,7 +8,7 @@ To do this, we’ll use the filtering functionality of the subscription
 service. Select the SLA drop-down and select *Premium*.
 
 .Premium Subs
-image::../assets/swatch-filtering-1.png[Premium Subs]
+image::swatch-filtering-1.png[Premium Subs]
 
 You’ll notice that ALL three aspects of the page will change to match
 your filter of *Premium*:
@@ -27,6 +27,6 @@ again, you’ll see your usage chart change to match the selected date
 range.
 
 .Date Range
-image::../assets/swatch-filtering-2.png[Date Range]
+image::swatch-filtering-2.png[Date Range]
 
 Next, we’ll look into addon and other product subscriptions.

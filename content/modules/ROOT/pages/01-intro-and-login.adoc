@@ -1,6 +1,7 @@
+:imagesdir: ../assets/images
 ____
 _NOTE:_ To make the inline images larger, expand this window.
-image:../assets/slider.png[Menu Slider]
+image:slider.png[Menu Slider]
 ____
 
 Red Hat Insights Subscriptions is a service hosted on the Hybrid Cloud
@@ -30,10 +31,10 @@ in order to paste in the embedded browser tab in this lab
 ____
 
 .Red Hat Login screen
-image::../assets/cloud-console-login.png[Red Hat Login screen]
+image::cloud-console-login.png[Red Hat Login screen]
 
 .Red Hat Password screen
-image::../assets/cloud-console-login-pass.png[Red Hat Password screen]
+image::cloud-console-login-pass.png[Red Hat Password screen]
 
 Once you are logged in, navigate to *Services* at the top, then to
 *Subscriptions and Spend* in the menu on the left, and then finally
@@ -45,7 +46,7 @@ browser window’s size.
 ____
 
 .Subscriptions Navigation
-image::../assets/swatch-nav.png[Subscriptions Navigation]
+image::swatch-nav.png[Subscriptions Navigation]
 
 Now, we can get started by clicking the `+Next+` button at the bottom of
 this panel.

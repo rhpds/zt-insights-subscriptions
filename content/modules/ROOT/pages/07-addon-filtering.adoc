@@ -10,7 +10,7 @@ Server environment. We can do this by selecting "`Satellite Server`"
 from the *Variant* drop down.
 
 .Filtered Addons
-image::../assets/swatch-addons.png[Filtered Addons]
+image::swatch-addons.png[Filtered Addons]
 
 We hope this lab has helped you see that the Subscriptions Service
 provides simple insight into your Red Hat product usage and makes it

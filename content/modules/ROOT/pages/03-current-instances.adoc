@@ -2,12 +2,12 @@ Below the usage graph, you’ll find the *Current Instances* tab. If it is
 not already selected, click on it.
 
 .current instances tab
-image::../assets/swatch-current-instances-tab.png[current instances tab]
+image::swatch-current-instances-tab.png[current instances tab]
 
 Your list should look similar to this:
 
 .Current Instance List
-image::../assets/swatch-current-instances-list.png[Current Instance
+image::swatch-current-instances-list.png[Current Instance
 List]
 
 In this tab, you’ll find: * *Name* - Known hostname of the system. *

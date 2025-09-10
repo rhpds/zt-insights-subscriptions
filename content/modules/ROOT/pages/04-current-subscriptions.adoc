@@ -2,12 +2,12 @@ Below the usage graph, you’ll also find the *Current Subscriptions* tab.
 Click on that and we’ll have a look at its contents.
 
 .current subscriptions tab
-image::../assets/swatch-current-subs-tab.png[current subscriptions tab]
+image::swatch-current-subs-tab.png[current subscriptions tab]
 
 Your list should look something like this:
 
 .Current subscriptions list
-image::../assets/swatch-current-subs-list.png[Current subscriptions
+image::swatch-current-subs-list.png[Current subscriptions
 list]
 
 On this tab, each entry includes the: * *Product* - The name of the

@@ -1,5 +1,5 @@
 .Subscriptions Usage Chart
-image::../assets/swatch-subs-chart.png[Subscriptions Usage Chart]
+image::swatch-subs-chart.png[Subscriptions Usage Chart]
 
 Now, let’s look at the *usage chart*. You can hover over any date in the
 chart in order to get the summary for that day. If your usage exceeds

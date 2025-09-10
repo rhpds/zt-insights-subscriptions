@@ -1,13 +1,13 @@
 ____
 _NOTE:_ To make the inline images larger, expand this window.
-image:../assets/slider.png[Menu Slider]
+image:slider.png[Menu Slider]
 ____
 
 In this step, we’ll review the _default_ view in Insights Subscriptions.
 This view defaults to the _RHEL for x86_ view.
 
 .Subscriptions default view
-image::../assets/swatch-default-view.png[Subscriptions default view]
+image::swatch-default-view.png[Subscriptions default view]
 
 In this view you are presented with three major items:
 
