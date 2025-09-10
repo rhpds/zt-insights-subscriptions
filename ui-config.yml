@@ -28,3 +28,4 @@ antora:
 tabs:
   - name: "Red Hybrid Cloud Console"
     url: https://console.redhat.com/
+    external: true
