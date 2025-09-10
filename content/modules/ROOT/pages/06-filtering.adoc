@@ -1,4 +1,6 @@
-Filtering
+:imagesdir: ../assets/images
+
+== Filtering
 
 Now that we have a good understanding of how the subscription service is
 laid out, our manager wants to understand how much *Premium* RHEL is in

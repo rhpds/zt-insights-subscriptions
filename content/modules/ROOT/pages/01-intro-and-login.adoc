@@ -1,15 +1,12 @@
 :imagesdir: ../assets/images
-____
-_NOTE:_ To make the inline images larger, expand this window.
-image:slider.png[Menu Slider]
-____
+
+== Introduction and Login
 
 Red Hat Insights Subscriptions is a service hosted on the Hybrid Cloud
 Console, that can be used to keep track of your Red Hat Enterprise Linux
 subscription usage.
 
-First, let’s head over to Red Hat’s Hybrid Cloud Console, and login. You
-should login with the following login and password:
+First, lets head over to Red Hat's Hybrid Cloud Console, and login. You should login with the following login and password:
 
 Login:
 
@@ -25,25 +22,13 @@ Password:
 Redhat1!
 ----
 
-____
-_NOTE:_ You must use the ctrl-v (or command-v on Mac) keyboard shortcut
-in order to paste in the embedded browser tab in this lab
-____
-
 .Red Hat Login screen
 image::cloud-console-login.png[Red Hat Login screen]
 
 .Red Hat Password screen
 image::cloud-console-login-pass.png[Red Hat Password screen]
 
-Once you are logged in, navigate to *Services* at the top, then to
-*Subscriptions and Spend* in the menu on the left, and then finally
-select *Subscriptions* under the _Red Hat Enterprise Linux_ heading.
-
-____
-_NOTE:_ Your view may differ from these examples depending on your web
-browser window’s size.
-____
+Once you are logged in, navigate to *Services* at the top, then to *Subscriptions and Spend* in the menu on the left, and then finally select *Subscriptions* under the _Red Hat Enterprise Linux_ heading.
 
 .Subscriptions Navigation
 image::swatch-nav.png[Subscriptions Navigation]

@@ -1,3 +1,7 @@
+:imagesdir: ../assets/images
+
+== Current Subscriptions
+
 Below the usage graph, you’ll also find the *Current Subscriptions* tab.
 Click on that and we’ll have a look at its contents.
 

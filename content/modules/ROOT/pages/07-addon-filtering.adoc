@@ -1,4 +1,6 @@
-Other Variants & Products
+:imagesdir: ../assets/images
+
+== Other Variants & Products
 
 In addition to being able to show usage for "`base RHEL`", the
 Subscriptions service can also show usage for RHEL addons (RHEL High

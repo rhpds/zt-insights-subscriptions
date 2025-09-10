@@ -1,7 +1,6 @@
-____
-_NOTE:_ To make the inline images larger, expand this window.
-image:slider.png[Menu Slider]
-____
+:imagesdir: ../assets/images
+
+== Default View
 
 In this step, we’ll review the _default_ view in Insights Subscriptions.
 This view defaults to the _RHEL for x86_ view.
