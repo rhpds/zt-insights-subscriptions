@@ -8,14 +8,15 @@ subscription usage.
 
 First, lets head over to Red Hat's Hybrid Cloud Console, and login. You should login with the following login and password:
 
-Login:
+. Login:
 
 [source,bash]
 ----
 swatch_demo_user
 ----
 
-Password:
+[start=2]
+. Password:
 
 [source,bash]
 ----
@@ -25,13 +26,21 @@ Redhat1!
 .Red Hat Login screen
 image::cloud-console-login.png[Red Hat Login screen]
 
-.Red Hat Password screen
-image::cloud-console-login-pass.png[Red Hat Password screen]
+Once you are logged in, click the `+Red Hat Hybrid Cloud Console+` button at the top.
 
-Once you are logged in, navigate to *Services* at the top, then to *Subscriptions and Spend* in the menu on the left, and then finally select *Subscriptions* under the _Red Hat Enterprise Linux_ heading.
+.Red Hat Hybrid Cloud Console Button
+image::rh_hcc_button.png[Red Hat Hybrid Cloud Console Button]
+
+Then click on `+Subscriptions and Spend+` under the _Services_ heading.
+
+.Subscriptions and Spend Button
+image::subscriptions_and_spend_button.png[Subscriptions and Spend Button]
+
+Finally, select *Subscriptions Usage* under the _Red Hat Enterprise Linux_ heading.
 
 .Subscriptions Navigation
 image::swatch-nav.png[Subscriptions Navigation]
+
 
 Now, we can get started by clicking the `+Next+` button at the bottom of
 this panel.
