@@ -6,7 +6,16 @@ Red Hat Insights Subscriptions is a service hosted on the Hybrid Cloud
 Console, that can be used to keep track of your Red Hat Enterprise Linux
 subscription usage.
 
-First, lets head over to Red Hat's Hybrid Cloud Console, and login. You should login with the following login and password:
+First, lets head over to Red Hat'
+
+Open the following URL in a new tab in your browser:
+
+[source,bash]
+----
+https://console.redhat.com/
+----
+
+You should login with the following login and password:
 
 . Login:
 
