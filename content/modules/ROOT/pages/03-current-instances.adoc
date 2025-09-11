@@ -11,8 +11,7 @@ image::swatch-current-instances-tab.png[current instances tab]
 Your list should look similar to this:
 
 .Current Instance List
-image::swatch-current-instances-list.png[Current Instance
-List]
+image::swatch-current-instances-list.png[Current Instance List]
 
 In this tab, you’ll find: * *Name* - Known hostname of the system. *
 *Guests* - Number of virtual guests running on the system (if the system
@@ -30,4 +29,4 @@ usually a cloud marketplace. These systems will show in the '`current
 instances`' list, but do not contribute to the usage chart. * *Last
 Seen* - When was this system last seen in the subscription service.
 
-In the next step, we’ll cover the *Curent Subscriptions* tab.
+In the next step, we’ll cover the *current Subscriptions* tab.

@@ -11,8 +11,7 @@ image::swatch-current-subs-tab.png[current subscriptions tab]
 Your list should look something like this:
 
 .Current subscriptions list
-image::swatch-current-subs-list.png[Current subscriptions
-list]
+image::swatch-current-subs-list.png[Current subscriptions list]
 
 On this tab, each entry includes the: * *Product* - The name of the
 subscription * *Service Level* - What is the expectation of support from
